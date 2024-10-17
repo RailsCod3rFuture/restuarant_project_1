@@ -1,0 +1,42 @@
+body {
+  background: skyblue;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.rest-header {
+  font-size: 50px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+.rest-subheader {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.rest-info-text {
+  font-weight: 600;
+}
+.photo-pos {
+  height: 400px;
+  width: 700px;
+}
+
+.page-divider {
+  background: black;
+  height: 3px;
+  border: 1px black;
+}
